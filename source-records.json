@@ -1,0 +1,63 @@
+{
+  "note": "來源對應紀錄；來源不顯示於投影片頁面。",
+  "records": [
+    {
+      "article_id": "western-blot",
+      "sources": [
+        {
+          "title": "Western blot",
+          "url": "https://en.wikipedia.org/wiki/Western_blot",
+          "accessed": "2026-11-09",
+          "used_for": "技術定義、分離與轉漬、抗體偵測、應用與常見問題"
+        },
+        {
+          "title": "西方墨點法",
+          "url": "https://zh.wikipedia.org/wiki/西方墨點法",
+          "accessed": "2026-11-09",
+          "used_for": "繁體中文術語交叉參照"
+        }
+      ]
+    },
+    {
+      "article_id": "rt-qpcr",
+      "sources": [
+        {
+          "title": "Reverse transcription polymerase chain reaction",
+          "url": "https://en.wikipedia.org/wiki/Reverse_transcription_polymerase_chain_reaction",
+          "accessed": "2026-11-09",
+          "used_for": "反轉錄與 cDNA 的定義、RT-PCR 與 qPCR 名稱區別"
+        },
+        {
+          "title": "Real-time polymerase chain reaction",
+          "url": "https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction",
+          "accessed": "2026-11-09",
+          "used_for": "即時螢光監測、Cq、染劑與探針偵測、基因表現定量"
+        }
+      ]
+    },
+    {
+      "article_id": "mtt-assay",
+      "sources": [
+        {
+          "title": "MTT assay",
+          "url": "https://en.wikipedia.org/wiki/MTT_assay",
+          "accessed": "2026-11-09",
+          "used_for": "MTT 還原形成 formazan、吸光值測量、應用與解讀限制"
+        },
+        {
+          "title": "MTT試驗",
+          "url": "https://zh.wikipedia.org/wiki/MTT試驗",
+          "accessed": "2026-11-09",
+          "used_for": "繁體中文術語交叉參照"
+        }
+      ]
+    }
+  ],
+  "publication": {
+    "version": 2,
+    "status": "published",
+    "published_on": "2026-11-09",
+    "authorization": "使用者明確同意使用維基百科作為本批文章知識來源，並明確同意發布三篇文章。",
+    "source_policy": "本批文章依使用者授權，以 source records 所列維基百科條目為知識來源。"
+  }
+}

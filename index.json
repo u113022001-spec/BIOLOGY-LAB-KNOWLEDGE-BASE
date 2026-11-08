@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "molecular-biology",
+      "name": "分子生物學"
+    },
+    {
+      "id": "cell-biology",
+      "name": "細胞生物學"
+    }
+  ],
+  "articles": [
+    {
+      "id": "western-blot",
+      "title": "Western blotting｜西方墨點法",
+      "description": "認識蛋白質分離、轉漬與抗體偵測的核心概念。",
+      "category": "molecular-biology",
+      "pages": 7,
+      "file": "western-blot.md",
+      "status": "published",
+      "keywords": [
+        "Western blot",
+        "蛋白質",
+        "抗體",
+        "轉漬"
+      ],
+      "published_version": 2
+    },
+    {
+      "id": "rt-qpcr",
+      "title": "RT-qPCR｜定量反轉錄即時 PCR",
+      "description": "從 RNA 反轉錄到即時螢光監測，理解基因表現分析。",
+      "category": "molecular-biology",
+      "pages": 7,
+      "file": "rt-qpcr.md",
+      "status": "published",
+      "keywords": [
+        "RT-qPCR",
+        "RNA",
+        "cDNA",
+        "qPCR",
+        "基因表現"
+      ],
+      "published_version": 2
+    },
+    {
+      "id": "mtt-assay",
+      "title": "MTT assay｜MTT 細胞活性分析",
+      "description": "透過四唑鹽還原與比色訊號，認識細胞代謝活性分析。",
+      "category": "cell-biology",
+      "pages": 7,
+      "file": "mtt-assay.md",
+      "status": "published",
+      "keywords": [
+        "MTT",
+        "細胞活性",
+        "formazan",
+        "細胞毒性"
+      ],
+      "published_version": 2
+    }
+  ],
+  "version": 2
+}
